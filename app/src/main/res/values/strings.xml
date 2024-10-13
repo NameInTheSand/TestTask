@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="app_database_name">boot_event_database</string>
+    <string name="lbl_no_boots_detected">No boots detected</string>
+    <string name="fmt_boot_detected">The boot was detected = %1$s</string>
+    <string name="fmt_boot_delta">Last boots time delta = = %1$s</string>
+    <string name="fmt_hours_minutes">%1$d hours %2$d minutes</string>
+</resources>
