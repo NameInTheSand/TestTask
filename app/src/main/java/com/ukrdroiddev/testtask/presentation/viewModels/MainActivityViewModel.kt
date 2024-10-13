@@ -1,6 +1,5 @@
 package com.ukrdroiddev.testtask.presentation.viewModels
 
-import android.content.Context
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -20,7 +19,6 @@ class MainActivityViewModel(
 
 
     init {
-
         updateLastBootDetectionTime()
     }
 
